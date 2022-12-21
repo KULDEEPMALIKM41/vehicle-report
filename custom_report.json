@@ -1,0 +1,439 @@
+{
+  "overview": {
+    "total_rows": "7385",
+    "total_vehicle_attributes(columns)": 12,
+    "total_duplicate_rows": "1102",
+    "max_mileage": "4.1 L/100km",
+    "max_mileage_vehicle_details": {
+      "Make": {
+        "3824": "HYUNDAI",
+        "4900": "HYUNDAI",
+        "5931": "HYUNDAI",
+        "6950": "HYUNDAI"
+      },
+      "Model": {
+        "3824": "IONIQ BLUE",
+        "4900": "IONIQ BLUE",
+        "5931": "IONIQ Blue",
+        "6950": "IONIQ Blue"
+      },
+      "Vehicle Class": {
+        "3824": "FULL-SIZE",
+        "4900": "FULL-SIZE",
+        "5931": "FULL-SIZE",
+        "6950": "FULL-SIZE"
+      },
+      "Engine Size(L)": {
+        "3824": "1.6",
+        "4900": "1.6",
+        "5931": "1.6",
+        "6950": "1.6"
+      },
+      "Cylinders": {
+        "3824": 4.0,
+        "4900": 4.0,
+        "5931": 4.0,
+        "6950": 4.0
+      },
+      "Transmission": {
+        "3824": "AM6",
+        "4900": "AM6",
+        "5931": "AM6",
+        "6950": "AM6"
+      },
+      "Fuel Type": {
+        "3824": "X",
+        "4900": "X",
+        "5931": "X",
+        "6950": "X"
+      },
+      "Fuel Consumption City (L/100 km)": {
+        "3824": 4.2,
+        "4900": 4.2,
+        "5931": 4.2,
+        "6950": 4.2
+      },
+      "Fuel Consumption Hwy (L/100 km)": {
+        "3824": 4.0,
+        "4900": 4.0,
+        "5931": 4.0,
+        "6950": 4.0
+      },
+      "Fuel Consumption Comb (L/100 km)": {
+        "3824": 4.1,
+        "4900": 4.1,
+        "5931": 4.1,
+        "6950": 4.1
+      },
+      "Fuel Consumption Comb (mpg)": {
+        "3824": 69,
+        "4900": 69,
+        "5931": 69,
+        "6950": 69
+      },
+      "CO2 Emissions(g/km)": {
+        "3824": 96,
+        "4900": 96,
+        "5931": 96,
+        "6950": 96
+      }
+    },
+    "min_mileage": "26.1 L/100km",
+    "min_mileage_vehicle_details": {
+      "Make": {
+        "1329": "CHEVROLET",
+        "1534": "GMC"
+      },
+      "Model": {
+        "1329": "EXPRESS 3500 PASSENGER FFV",
+        "1534": "SAVANA 3500 PASSENGER FFV"
+      },
+      "Vehicle Class": {
+        "1329": "VAN - PASSENGER",
+        "1534": "VAN - PASSENGER"
+      },
+      "Engine Size(L)": {
+        "1329": "6",
+        "1534": "6"
+      },
+      "Cylinders": {
+        "1329": 8.0,
+        "1534": 8.0
+      },
+      "Transmission": {
+        "1329": "A6",
+        "1534": "A6"
+      },
+      "Fuel Type": {
+        "1329": "E",
+        "1534": "E"
+      },
+      "Fuel Consumption City (L/100 km)": {
+        "1329": 30.6,
+        "1534": 30.6
+      },
+      "Fuel Consumption Hwy (L/100 km)": {
+        "1329": 20.6,
+        "1534": 20.6
+      },
+      "Fuel Consumption Comb (L/100 km)": {
+        "1329": 26.1,
+        "1534": 26.1
+      },
+      "Fuel Consumption Comb (mpg)": {
+        "1329": 11,
+        "1534": 11
+      },
+      "CO2 Emissions(g/km)": {
+        "1329": 418,
+        "1534": 418
+      }
+    },
+    "max_co2_emissions": "522 g/100km",
+    "max_co2_emissions_vehicle_details": {
+      "Make": {
+        "4509": "BUGATTI",
+        "5575": "BUGATTI",
+        "6640": "BUGATTI"
+      },
+      "Model": {
+        "4509": "CHIRON",
+        "5575": "Chiron",
+        "6640": "Chiron"
+      },
+      "Vehicle Class": {
+        "4509": "TWO-SEATER",
+        "5575": "TWO-SEATER",
+        "6640": "TWO-SEATER"
+      },
+      "Engine Size(L)": {
+        "4509": "8",
+        "5575": "8",
+        "6640": "8"
+      },
+      "Cylinders": {
+        "4509": 16.0,
+        "5575": 16.0,
+        "6640": 16.0
+      },
+      "Transmission": {
+        "4509": "AM7",
+        "5575": "AM7",
+        "6640": "AM7"
+      },
+      "Fuel Type": {
+        "4509": "Z",
+        "5575": "Z",
+        "6640": "Z"
+      },
+      "Fuel Consumption City (L/100 km)": {
+        "4509": 26.8,
+        "5575": 26.8,
+        "6640": 26.8
+      },
+      "Fuel Consumption Hwy (L/100 km)": {
+        "4509": 16.6,
+        "5575": 16.6,
+        "6640": 16.6
+      },
+      "Fuel Consumption Comb (L/100 km)": {
+        "4509": 22.2,
+        "5575": 22.2,
+        "6640": 22.2
+      },
+      "Fuel Consumption Comb (mpg)": {
+        "4509": 13,
+        "5575": 13,
+        "6640": 13
+      },
+      "CO2 Emissions(g/km)": {
+        "4509": 522,
+        "5575": 522,
+        "6640": 522
+      }
+    },
+    "min_co2_emissions": "96 g/100km",
+    "min_co2_emissions_vehicle_details": {
+      "Make": {
+        "3824": "HYUNDAI",
+        "4900": "HYUNDAI",
+        "5931": "HYUNDAI",
+        "6950": "HYUNDAI"
+      },
+      "Model": {
+        "3824": "IONIQ BLUE",
+        "4900": "IONIQ BLUE",
+        "5931": "IONIQ Blue",
+        "6950": "IONIQ Blue"
+      },
+      "Vehicle Class": {
+        "3824": "FULL-SIZE",
+        "4900": "FULL-SIZE",
+        "5931": "FULL-SIZE",
+        "6950": "FULL-SIZE"
+      },
+      "Engine Size(L)": {
+        "3824": "1.6",
+        "4900": "1.6",
+        "5931": "1.6",
+        "6950": "1.6"
+      },
+      "Cylinders": {
+        "3824": 4.0,
+        "4900": 4.0,
+        "5931": 4.0,
+        "6950": 4.0
+      },
+      "Transmission": {
+        "3824": "AM6",
+        "4900": "AM6",
+        "5931": "AM6",
+        "6950": "AM6"
+      },
+      "Fuel Type": {
+        "3824": "X",
+        "4900": "X",
+        "5931": "X",
+        "6950": "X"
+      },
+      "Fuel Consumption City (L/100 km)": {
+        "3824": 4.2,
+        "4900": 4.2,
+        "5931": 4.2,
+        "6950": 4.2
+      },
+      "Fuel Consumption Hwy (L/100 km)": {
+        "3824": 4.0,
+        "4900": 4.0,
+        "5931": 4.0,
+        "6950": 4.0
+      },
+      "Fuel Consumption Comb (L/100 km)": {
+        "3824": 4.1,
+        "4900": 4.1,
+        "5931": 4.1,
+        "6950": 4.1
+      },
+      "Fuel Consumption Comb (mpg)": {
+        "3824": 69,
+        "4900": 69,
+        "5931": 69,
+        "6950": 69
+      },
+      "CO2 Emissions(g/km)": {
+        "3824": 96,
+        "4900": 96,
+        "5931": 96,
+        "6950": 96
+      }
+    }
+  },
+  "Make": {
+    "total_items": "7385",
+    "valid_items": "7385",
+    "valid_items_per(%)": "100.0 %",
+    "total_unique_items": 42,
+    "total_unique_items_per(%)": "0.57 %",
+    "total_missing_items": "0",
+    "total_missing_items_per(%)": "0.0 %",
+    "most_frequent_item": "FORD",
+    "count_most_common_item": "628",
+    "most_frequent_item_per(%)": "8.5 %",
+    "total_mismatched_item": 0,
+    "total_mismatched_item_per(%)": "0.0 %"
+  },
+  "Model": {
+    "total_items": "7379",
+    "valid_items": "7373",
+    "valid_items_per(%)": "99.92 %",
+    "total_unique_items": 2054,
+    "total_unique_items_per(%)": "27.84 %",
+    "total_missing_items": "6",
+    "total_missing_items_per(%)": "0.08 %",
+    "most_frequent_item": "F-150 FFV",
+    "count_most_common_item": "32",
+    "most_frequent_item_per(%)": "0.43 %",
+    "total_mismatched_item": 0,
+    "total_mismatched_item_per(%)": "0.0 %"
+  },
+  "Vehicle Class": {
+    "total_items": "7385",
+    "valid_items": "7385",
+    "valid_items_per(%)": "100.0 %",
+    "total_unique_items": 16,
+    "total_unique_items_per(%)": "0.22 %",
+    "total_missing_items": "0",
+    "total_missing_items_per(%)": "0.0 %",
+    "most_frequent_item": "SUV - SMALL",
+    "count_most_common_item": "1217",
+    "most_frequent_item_per(%)": "16.48 %",
+    "total_mismatched_item": 0,
+    "total_mismatched_item_per(%)": "0.0 %"
+  },
+  "Engine Size(L)": {
+    "total_items": "7382",
+    "valid_items": "7378",
+    "valid_items_per(%)": "99.95 %",
+    "total_unique_items": 56,
+    "total_unique_items_per(%)": "0.76 %",
+    "total_missing_items": "3",
+    "total_missing_items_per(%)": "0.04 %",
+    "most_frequent_item": "2",
+    "count_most_common_item": "1459",
+    "most_frequent_item_per(%)": "19.76 %",
+    "total_mismatched_item": 1,
+    "total_mismatched_item_per(%)": "0.01 %"
+  },
+  "Cylinders": {
+    "total_items": "7379",
+    "valid_items": "7372",
+    "valid_items_per(%)": "99.91 %",
+    "total_unique_items": 9,
+    "total_unique_items_per(%)": "0.12 %",
+    "total_missing_items": "6",
+    "total_missing_items_per(%)": "0.08 %",
+    "most_frequent_item": 4.0,
+    "count_most_common_item": "3215",
+    "most_frequent_item_per(%)": "43.57 %",
+    "total_mismatched_item": 1,
+    "total_mismatched_item_per(%)": "0.01 %"
+  },
+  "Transmission": {
+    "total_items": "7385",
+    "valid_items": "7385",
+    "valid_items_per(%)": "100.0 %",
+    "total_unique_items": 27,
+    "total_unique_items_per(%)": "0.37 %",
+    "total_missing_items": "0",
+    "total_missing_items_per(%)": "0.0 %",
+    "most_frequent_item": "AS6",
+    "count_most_common_item": "1324",
+    "most_frequent_item_per(%)": "17.93 %",
+    "total_mismatched_item": 0,
+    "total_mismatched_item_per(%)": "0.0 %"
+  },
+  "Fuel Type": {
+    "total_items": "7385",
+    "valid_items": "7385",
+    "valid_items_per(%)": "100.0 %",
+    "total_unique_items": 5,
+    "total_unique_items_per(%)": "0.07 %",
+    "total_missing_items": "0",
+    "total_missing_items_per(%)": "0.0 %",
+    "most_frequent_item": "X",
+    "count_most_common_item": "3637",
+    "most_frequent_item_per(%)": "49.25 %",
+    "total_mismatched_item": 0,
+    "total_mismatched_item_per(%)": "0.0 %"
+  },
+  "Fuel Consumption City (L/100 km)": {
+    "total_items": "7385",
+    "valid_items": "7385",
+    "valid_items_per(%)": "100.0 %",
+    "total_unique_items": 211,
+    "total_unique_items_per(%)": "2.86 %",
+    "total_missing_items": "0",
+    "total_missing_items_per(%)": "0.0 %",
+    "most_frequent_item": 10.8,
+    "count_most_common_item": "125",
+    "most_frequent_item_per(%)": "1.69 %",
+    "total_mismatched_item": 0,
+    "total_mismatched_item_per(%)": "0.0 %"
+  },
+  "Fuel Consumption Hwy (L/100 km)": {
+    "total_items": "7385",
+    "valid_items": "7385",
+    "valid_items_per(%)": "100.0 %",
+    "total_unique_items": 143,
+    "total_unique_items_per(%)": "1.94 %",
+    "total_missing_items": "0",
+    "total_missing_items_per(%)": "0.0 %",
+    "most_frequent_item": 7.8,
+    "count_most_common_item": "209",
+    "most_frequent_item_per(%)": "2.83 %",
+    "total_mismatched_item": 0,
+    "total_mismatched_item_per(%)": "0.0 %"
+  },
+  "Fuel Consumption Comb (L/100 km)": {
+    "total_items": "7385",
+    "valid_items": "7385",
+    "valid_items_per(%)": "100.0 %",
+    "total_unique_items": 181,
+    "total_unique_items_per(%)": "2.45 %",
+    "total_missing_items": "0",
+    "total_missing_items_per(%)": "0.0 %",
+    "most_frequent_item": 9.4,
+    "count_most_common_item": "145",
+    "most_frequent_item_per(%)": "1.96 %",
+    "total_mismatched_item": 0,
+    "total_mismatched_item_per(%)": "0.0 %"
+  },
+  "Fuel Consumption Comb (mpg)": {
+    "total_items": "7385",
+    "valid_items": "7385",
+    "valid_items_per(%)": "100.0 %",
+    "total_unique_items": 54,
+    "total_unique_items_per(%)": "0.73 %",
+    "total_missing_items": "0",
+    "total_missing_items_per(%)": "0.0 %",
+    "most_frequent_item": "25",
+    "count_most_common_item": "482",
+    "most_frequent_item_per(%)": "6.53 %",
+    "total_mismatched_item": 0,
+    "total_mismatched_item_per(%)": "0.0 %"
+  },
+  "CO2 Emissions(g/km)": {
+    "total_items": "7385",
+    "valid_items": "7385",
+    "valid_items_per(%)": "100.0 %",
+    "total_unique_items": 331,
+    "total_unique_items_per(%)": "4.48 %",
+    "total_missing_items": "0",
+    "total_missing_items_per(%)": "0.0 %",
+    "most_frequent_item": "242",
+    "count_most_common_item": "85",
+    "most_frequent_item_per(%)": "1.15 %",
+    "total_mismatched_item": 0,
+    "total_mismatched_item_per(%)": "0.0 %"
+  }
+}
