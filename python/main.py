@@ -161,7 +161,7 @@ def autoAnalysis(df):
     '''
         this function "autoAnalysis()" is just for genrating auto report in html & json format, 
         Here i am not show any logical skill, just showing awarness about pandas_profiling module.
-        if usefull please uncomment lines no. 159, 160, 161 and 5.
+        if usefull please uncomment lines no. 167, 168, 169 and 5.
         if uncommnet these line plese install "pandas-profiling" module.
     '''
 #     profile = pandas_profiling.ProfileReport(df)
